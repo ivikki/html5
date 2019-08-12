@@ -1,0 +1,15 @@
+{
+  "name": "pack1.0",
+  "version": "1.0.0",
+  "description": "my first package for learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learn",
+    "js"
+  ],
+  "author": "Vikki",
+  "license": "ISC"
+}
